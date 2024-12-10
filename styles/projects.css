@@ -22,6 +22,7 @@
             text-align: center;
         }
         
+<<<<<<< HEAD
         .container {
             display: grid;
             grid-template-columns: repeat(3, 0.1fr);
@@ -66,5 +67,10 @@
                 border-radius: 8px;
                 
             }
+=======
+
+
+        
+>>>>>>> 2955fde80d6d3f53c754cf044c4ac58b1dd84133
     }
     }

@@ -107,7 +107,6 @@
         }
     }
     .vector img {
-        display: flex;
         cursor: pointer;
         display: flex;
         margin: 50px auto;
